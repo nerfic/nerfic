@@ -1,6 +1,6 @@
 ### Salut 👋
 
-Etudiant à Konexio en tant que Développeur Fullstack JS
+Développeur Fullstack JS
 
 Frontend : 
 
